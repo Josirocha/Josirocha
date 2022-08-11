@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Josiane da Rocha 😊
 
 
-- 🌱 Estou estudando HTML, CSS, Javascript e node.js
+- 🌱 Estou estudando HTML, CSS, Javascript, node.js e React.js
 - 🐉 Bootcamp WebDev Fullstack - Resilia T17💛
 
 <div align="center">
