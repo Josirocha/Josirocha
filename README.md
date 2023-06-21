@@ -10,9 +10,7 @@
 - Atualmente trabalho como desenvolvedora FullStack na FRST Falconi 
 
 <div align="center">
-  <a href="https://github.com/Josirocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josirocha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ## Ferramentas e Tecnologias
