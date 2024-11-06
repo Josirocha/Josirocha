@@ -7,7 +7,7 @@
 
 - Finalizei o Bootcamp WebDev Fullstack da Resilia onde fiz parte da T17💛
 - Cursando Engenharia da Computação pela Descomplica
-- Atualmente trabalho como desenvolvedora FullStack na FRST Falconi 
+- Atualmente trabalho como desenvolvedora Front end na FRST Falconi 
 
 <div align="center">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josirocha&layout=compact&langs_count=7&theme=algolia"/>
